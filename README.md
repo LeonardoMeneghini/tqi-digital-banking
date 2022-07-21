@@ -1,2 +1,2 @@
 # tqi-digital-banking
- Banco digital da DIO no bootcamp TQI Fullstack
+ Projeto de banco digital referente ao bootcamp TQI Fullstack.
